@@ -38,30 +38,3 @@ every space counts (we use two-spaces indentation)
 
 #VSLIDE
 
-
-YAML example
-
-key: value
-boolean: true
-string: "hello world"
-dictionary:
-  key: value
-array:
-  - val1
-  - val2
-
-
-#VSLIDE
-
-
-TOSCA
-
-Full reading: http://docs.oasis-open.org/tosca/TOSCA-Simple-Profile-YAML/v1.0/csprd01/TOSCA-Simple-Profile-YAML-v1.0-csprd01.html
-
-Required elements for every node type:
-
-properties:
-      name:
-      version:
-      description:
-
