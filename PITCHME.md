@@ -1,4 +1,4 @@
-Training: Application Onboarding Process
+Training: AOP
 
 
 Session 0
@@ -8,13 +8,6 @@ Session 0
 
 Agenda for today
 
-1. Introduction into YAML and TOSCA
-
-2. Create a sample VNF step by step
-
-3. Deploy a VNF to an environment
-
-4. It's your turn: collecting requirements
 
 #HSLIDE
 
